@@ -1,4 +1,4 @@
-# STA221
+# STA221 Final Project - Deepfake CT Scan Detection
 
 The rise of deepfake technology poses significant challenges to the integrity of
 medical imaging systems, particularly in lung cancer diagnostics. Manipulated CT
